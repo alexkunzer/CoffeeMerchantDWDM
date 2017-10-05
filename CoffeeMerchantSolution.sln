@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Documents", "Solution Documents", "{3B9ECBDF-CAFF-430B-8E1B-162B8235DF66}"
+	ProjectSection(SolutionItems) = preProject
+		..\BISolutionWorksheets.xlsx = ..\BISolutionWorksheets.xlsx
+		..\Information Package.docx = ..\Information Package.docx
+		..\Star Schema.vsdx = ..\Star Schema.vsdx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
